@@ -3,7 +3,7 @@
     "title": "Derecho Civil Bienes 1",
     "description": "Aprende el Código",
     "language": "es",
-    "githubId": "CodexEC/DerechoCivilBienes1",
+    "githubId": "CodexEC/derecho-civil-bienes-1",
     "username": "CodexEC",
     "name": "Vladimir Rodríguez",
     "urls.profile": "http://github.com/fizzvr",
@@ -17,7 +17,7 @@
     },
     "pluginsConfig": {
         "github": {
-          "url": "https://github.com/CodexEC/DerechoCivilBienes1"
+          "url": "https://github.com/CodexEC/derecho-civil-bienes-1"
         },
         "github-buttons": {
           "repo": "fizzvr",
