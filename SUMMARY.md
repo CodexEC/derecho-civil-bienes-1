@@ -1,6 +1,6 @@
 # Tabla de Contenido
 
 * [Introducción](README.md)
-* [La Accesión como modo de adquirir el dominio](4/README.md)
-    * 
+* [De la Accesión](4/README.md)
+    * [La accesión como modo de aquirir el dominio](4/1.md)
 
